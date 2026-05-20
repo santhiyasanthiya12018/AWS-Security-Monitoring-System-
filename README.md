@@ -33,7 +33,9 @@ AWS Services Use:
 •	AWS CLI
 
 Project Outcomes:
+
 Built an automated monitoring solution that improves cloud infrastructure security by detecting sensitive resource access events and generating immediate alerts for faster response and investigation. 
 
 Author
+
 SANTHIYA  N
