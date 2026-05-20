@@ -1,10 +1,10 @@
 # AWS-Security-Monitoring-System-
 
-AWS Security Monitoring System:
+*AWS Security Monitoring System:*
 
 This project demonstrates the implementation of a real-time cloud security monitoring and alerting system using Amazon Web Services services. The system continuously monitors security-related events, detects unauthorized access attempts, and sends instant notifications for quick incident response.
 
-Key Features:
+*Key Features:*
 
 •	Configured AWS CloudTrail to capture and log API activity across AWS re sources.
 
@@ -19,7 +19,7 @@ Key Features:
 •	Automated event tracking and alert generation for improved cloud security viability.
 
 
-AWS Services Use:
+*AWS Services Use:*
 
 •	AWS CloudTrail
 
@@ -31,10 +31,10 @@ AWS Services Use:
 
 •	AWS CLI
 
-Project Outcomes:
+*Project Outcomes:*
 
 Built an automated monitoring solution that improves cloud infrastructure security by detecting sensitive resource access events and generating immediate alerts for faster response and investigation. 
 
-Author
+*Author*
 
 SANTHIYA  N
