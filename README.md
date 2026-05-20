@@ -7,19 +7,29 @@ This project demonstrates the implementation of a real-time cloud security monit
 
 Key Features:
 
-•	Configured AWS CloudTrail to capture and log API activity across AWS resources
-•	Created CloudWatch Log Groups and Metric Filters to monitor suspicious events
-•	Configured CloudWatch Alarms for automatic threat detection
-•	Integrated SNS Email Notifications for real-time security alerts
-•	Monitored AWS Secrets Manager access events
-•	Automated event tracking and alert generation for improved cloud security visibility
+•	Configured AWS CloudTrail to capture and log API activity across AWS re sources.
+
+•	Created CloudWatch Log Groups and Metric Filters to monitor suspicious E events.
+
+•	Configured CloudWatch Alarms for automatic threat defection.
+
+•	Integrated SNS Email Notifications for real-time security aletta.
+
+•	Monitored AWS Secrets Manager access event.
+
+•	Automated event tracking and alert generation for improved cloud security viability.
+
 
 AWS Services Use:
 
 •	AWS CloudTrail
-•	Amazon CloudWatch
-•	Amazon SNS
-•	AWS Secrets Manager
+
+•	Amazon cloud watch
+
+•	Amazon sns
+
+•	AWS Secrets Managed
+
 •	AWS CLI
 
 Project Outcomes:
