@@ -1,6 +1,6 @@
 # AWS-Security-Monitoring-System-
 
-*AWS Security Monitoring System:*
+_AWS Security Monitoring System:_
 
 This project demonstrates the implementation of a real-time cloud security monitoring and alerting system using Amazon Web Services services. The system continuously monitors security-related events, detects unauthorized access attempts, and sends instant notifications for quick incident response.
 
